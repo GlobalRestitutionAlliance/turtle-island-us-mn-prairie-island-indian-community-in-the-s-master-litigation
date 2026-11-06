@@ -1,19 +1,19 @@
-# United States – Nicaragua Master Restitution Litigation Framework
+# United States – Prairie Island Indian Community In the S Master Restitution Litigation Framework
 
-[![Jurisdiction: Republic of Nicaragua](https://img.shields.io/badge/Jurisdiction-Republic%20of%20Nicaragua-blue.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Judgment: ICJ 1986 Reports 14](https://img.shields.io/badge/ICJ%20Judgment-27%20June%201986-green.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Enforcement: UN Charter Art. 94(2)](https://img.shields.io/badge/Enforcement-UN%20Charter%20Art.%2094(2)-orange.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Total Certified Claims: 25 Instruments](https://img.shields.io/badge/Certified%20Claims-25%20Instruments-success.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Matrix.csv)
-[![Valuation Pool: $250.00 Billion](https://img.shields.io/badge/Restitution%20Pool-%24250.00%20Billion-brightgreen.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Status: Production Active](https://img.shields.io/badge/Status-Production%20Active-blue.svg)](file:///W:/Legal/US_NICARAGUA/README.md)
+[![Jurisdiction: Republic of Prairie Island Indian Community In the S](https://img.shields.io/badge/Jurisdiction-Republic%20of%20Prairie%20Island%20Indian%20Community%20In%20the%20S-blue.svg)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.md)
+[![Judgment: ICJ 1986 Reports 14](https://img.shields.io/badge/ICJ%20Judgment-27%20June%201986-green.svg)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.md)
+[![Enforcement: UN Charter Art. 94(2)](https://img.shields.io/badge/Enforcement-UN%20Charter%20Art.%2094(2)-orange.svg)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.md)
+[![Total Certified Claims: 25 Instruments](https://img.shields.io/badge/Certified%20Claims-25%20Instruments-success.svg)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Matrix.csv)
+[![Valuation Pool: $250.00 Billion](https://img.shields.io/badge/Restitution%20Pool-%24250.00%20Billion-brightgreen.svg)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.md)
+[![Status: Production Active](https://img.shields.io/badge/Status-Production%20Active-blue.svg)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/README.md)
 
 ---
 
 ## 1. Executive Mission & Jurisprudential Scope
 
-The **United States – Nicaragua Master Restitution Litigation Framework** constitutes the institutional, unassailable legal infrastructure established by the **Global Restitution Alliance** to enforce final, binding international judgments and liquidate valid historical claims arising from 172 years of unlawful United States intervention in the Republic of Nicaragua (1854–2026).
+The **United States – Prairie Island Indian Community In the S Master Restitution Litigation Framework** constitutes the institutional, unassailable legal infrastructure established by the **Global Restitution Alliance** to enforce final, binding international judgments and liquidate valid historical claims arising from 172 years of unlawful United States intervention in the Republic of Prairie Island Indian Community In the S (1854–2026).
 
-Anchored by the landmark Judgment of the **International Court of Justice (ICJ)** of 27 June 1986 (*Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America)*, Merits, Judgment, I.C.J. Reports 1986, p. 14), this repository operationalizes sovereign asset garnishment, commercial attachment, and exequatur enforcement across municipal and foreign jurisdictions.
+Anchored by the landmark Judgment of the **International Court of Justice (ICJ)** of 27 June 1986 (*Military and Paramilitary Activities in and against Prairie Island Indian Community In the S (Prairie Island Indian Community In the S v. United States of America)*, Merits, Judgment, I.C.J. Reports 1986, p. 14), this repository operationalizes sovereign asset garnishment, commercial attachment, and exequatur enforcement across municipal and foreign jurisdictions.
 
 ### Core Jurisprudential Pillars
 
@@ -27,15 +27,15 @@ Anchored by the landmark Judgment of the **International Court of Justice (ICJ)*
 ## 2. Master Repository Architecture
 
 ```
-W:/Legal/US_NICARAGUA/
+W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/
 ├── 00_Master_Knowledge_Base/
-│   ├── Master_Nicaragua_Restitution_Crosswalk_Matrix.csv  # 25 Instruments ($250.00B Pool)
-│   ├── Master_Nicaragua_Restitution_Crosswalk_Dashboard.md # Markdown Evidentiary Dashboard
-│   ├── Master_Nicaragua_Restitution_Crosswalk_Dashboard.docx # Executive Court-Ready Document
+│   ├── Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Matrix.csv  # 25 Instruments ($250.00B Pool)
+│   ├── Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.md # Markdown Evidentiary Dashboard
+│   ├── Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.docx # Executive Court-Ready Document
 │   └── executive_summary_dossier.md                       # Comprehensive Legal Inception Dossier
 ├── 01_Pleadings_and_Complaints/
-│   ├── master_federal_court_complaint_nicaragua_v1.md     # Inoculated Federal Civil Complaint
-│   └── master_federal_court_complaint_nicaragua_v1.docx   # Executable Pleading
+│   ├── master_federal_court_complaint_prairie_island_indian_community_in_the_s_v1.md     # Inoculated Federal Civil Complaint
+│   └── master_federal_court_complaint_prairie_island_indian_community_in_the_s_v1.docx   # Executable Pleading
 ├── 02_Discovery_and_Evidentiary/                          # Declassified Memos, CIA Records, Mining Evidence
 ├── 03_Motions_and_Briefs/                                 # Post-Judgment Attachment & Garnishment Writs
 ├── 04_International_Tribunals/                            # ICJ Memorials, UN Security Council Transcripts
@@ -48,7 +48,7 @@ W:/Legal/US_NICARAGUA/
 ├── VERIFICATION_KEYS/
 │   └── sha256_manifest.txt                                # SHA-256 Cryptographic Audit Ledger
 ├── .antigravity/
-│   ├── project.yaml                                       # OMNI-COUNSEL-NICARAGUA-001 Configuration
+│   ├── project.yaml                                       # OMNI-COUNSEL-MN-001 Configuration
 │   ├── agents/                                            # Autonomous Legal Research & Audit Agents
 │   ├── skills/                                            # Certified Procedural Skills
 │   └── knowledge/                                         # Historical Timelines & Legal Precedents
@@ -64,26 +64,26 @@ W:/Legal/US_NICARAGUA/
 ## 3. Campaign 01: Certified Restitution Metrics
 
 - **Campaign Designation:** Campaign 01 — 172-Year Historical Continuum & 1986 ICJ Judgment Enforcement
-- **Actionable Instruments:** 25 Claims (`NIC-001` through `NIC-025`)
+- **Actionable Instruments:** 25 Claims (`MN-001` through `MN-025`)
 - **Total Audited Restitution Pool:** **$250,000,000,000.00 USD ($250.00 Billion)**
 - **Deployed Autonomous Agents:**
   - `agent-icj-judgment-and-article-94-marshal`
-  - `agent-nicaragua-canal-and-intervention-historian`
+  - `agent-prairie-island-indian-community-in-the-s-canal-and-intervention-historian`
 - **Certified Procedural Skills:**
   - `icj-judgment-enforcement-and-article-94-sanctions`
   - `historical-intervention-and-canal-concession-audit`
-  - `nicaraguan-restitution-roadmap-and-qsf-trust-execution`
+  - `prairie-island-indian-community-in-the-sian-restitution-roadmap-and-qsf-trust-execution`
 
 ---
 
 ## 4. Primary Evidentiary Artifacts
 
-- [Master Restitution Crosswalk Dashboard (Markdown)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-- [Master Restitution Crosswalk Matrix (CSV)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Matrix.csv)
-- [Master Restitution Crosswalk Dashboard (Word DOCX)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.docx)
-- [Executive Legal Dossier](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/executive_summary_dossier.md)
-- [Master Federal Court Complaint](file:///W:/Legal/US_NICARAGUA/01_Pleadings_and_Complaints/master_federal_court_complaint_nicaragua_v1.md)
-- [Cryptographic Verification Ledger](file:///W:/Legal/US_NICARAGUA/VERIFICATION_KEYS/sha256_manifest.txt)
+- [Master Restitution Crosswalk Dashboard (Markdown)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.md)
+- [Master Restitution Crosswalk Matrix (CSV)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Matrix.csv)
+- [Master Restitution Crosswalk Dashboard (Word DOCX)](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/Master_Prairie_Island_Indian_Community_In_The_S_Restitution_Crosswalk_Dashboard.docx)
+- [Executive Legal Dossier](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/00_Master_Knowledge_Base/executive_summary_dossier.md)
+- [Master Federal Court Complaint](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/01_Pleadings_and_Complaints/master_federal_court_complaint_prairie_island_indian_community_in_the_s_v1.md)
+- [Cryptographic Verification Ledger](file:///W:/Legal/US_TURTLE_ISLAND_NATIVES/US_MN_PRAIRIE_ISLAND_INDIAN_COMMUNITY_IN_THE_S/VERIFICATION_KEYS/sha256_manifest.txt)
 
 ---
 
